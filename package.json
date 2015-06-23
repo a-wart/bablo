@@ -31,5 +31,8 @@
     "gulp-watch": "^4.2.2",
     "serve-index": "^1.6.4",
     "yargs": "^3.6.0"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^2.3.1"
   }
 }
